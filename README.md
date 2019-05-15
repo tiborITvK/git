@@ -5,3 +5,6 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 
 - [Tibor Repček](https://github.com/tiborepcek)
 - **skúška 2**
+
+GitHub profil:
+- [Tomáš Takáč](https://github.com/TomTeki)
