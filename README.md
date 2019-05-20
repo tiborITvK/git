@@ -18,3 +18,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Alžbeta Sz.](https://github.com/BettySz)
 - [Filip Gola](https://github.com/filip-gola)
 - [SimonaVerespej](https://github.com/simonaverespej)
+- [Peter Jančovič](https://github.com/peterjancovic)
