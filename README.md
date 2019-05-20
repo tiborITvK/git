@@ -22,3 +22,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Nikola Vančišinová](https://github.com/Nikola109)
 - [Ján Švec](https://github.com/JanSvec)
 - [Michal Baťo](https://github.com/MajklBT)
+- [Patrik Vavrinec](https://github.com/Sherminator24)
