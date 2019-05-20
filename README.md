@@ -12,3 +12,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Anita Marcek](https://github.com/AnitaMarcek)
 - [Mário Ďuriš](https://github.com/MarioDuris)
 - [Lucia Doubravova](https://github.com/LuciaDoub)
+- [Michaela Kováčová] (https://github.com/myshellsmith)
