@@ -26,3 +26,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Michal Turský](https://github.com/MichalTursky)
 - [Róbert Chalčák](https://github.com/RobertChalcak)
 - [Andrej Kovačik](https://github.com/Andrej47)
+- [Alena Konečná](https://github.com/37Al)
