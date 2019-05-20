@@ -24,3 +24,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Michal Baťo](https://github.com/MajklBT)
 - [Patrik Vavrinec](https://github.com/Sherminator24)
 - [Michal Turský](https://github.com/MichalTursky)
+- [Róbert Chalčák](https://github.com/RobertChalcak)
