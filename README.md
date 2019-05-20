@@ -32,3 +32,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Lenka Cermanová](https://github.com/cerlenka)
 - [Kristína Chomišáková](https://github.com/tinachomisakova)
 - [Jana Chmelová](https://github.com/JanaChmela)
+- [Erika Kružliaková](https://github.com/Erin-Kruzliakova)
