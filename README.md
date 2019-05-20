@@ -30,3 +30,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Erik Vorel](https://github.com/ErikVorel)
 - [Daniel Filčák](https://github.com/Filky)
 - [Lenka Cermanová](https://github.com/cerlenka)
+- [Kristína Chomišáková](https://github.com/tinachomisakova)
