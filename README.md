@@ -5,3 +5,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 
 - [Tibor Repček](https://github.com/tiborepcek)
 - [Dávid Czajlik](https://github.com/Cajlo89)
+- [Rastislav Čellár](https://github.com/Marrr2)
