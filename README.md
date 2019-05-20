@@ -14,3 +14,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Lucia Doubravova](https://github.com/LuciaDoub)
 - [Michaela Kováčová] (https://github.com/myshellsmith)
 - [Rene Laca](https://github.com/renelaca)
+- [Tomáš Takáč](https://github.com/TomTeki)
