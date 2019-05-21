@@ -36,3 +36,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 - [Tomáš Jevčik](https://github.com/TomasJevcik)
 - [Zuzana Iľková](https://github.com/zuzka97)
 - [Juraj Šinka](https://github.com/JurajSinka)
+- [Miroslava Valkovská](https://github.com/mirka0310)
