@@ -55,3 +55,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Miriama Sabolová](https://github.com/miriamsabolova)
 1. [Karina Hudáková](https://github.com/Karin14)
 1. [Jaroslav Kandra](https://github.com/Jaroslav004/Repository.git)
+1. [Lukáš Fabula] (https://github.com/LukasFabula)
