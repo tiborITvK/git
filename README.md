@@ -53,3 +53,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Jana Molčanová](https://github.com/JanaMolcanova)
 1. [Lukáš Škovran] (https://github.com/LSkovran)
 1. [Miriama Sabolová](https://github.com/miriamsabolova)
+1. [Karina Hudáková](https://github.com/Karin14)
