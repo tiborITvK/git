@@ -50,3 +50,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Alena Milatová](https://github.com/AlenkaH)
 1. [Petra Kováčová](https://github.com/PetraKovacova)
 1. [Lucia Konarova](https://github.com/LuciaKonarova)
+1. [Jana Molčanová](https://github.com/JanaMolcanova)
