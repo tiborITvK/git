@@ -39,5 +39,7 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Miroslava Valkovská](https://github.com/mirka0310)
 1. [Daniel Čurda](https://github.com/DanielCurda)
 1. [Patrik Spevak](https://github.com/MrSingi)
-1. [Skúška](https://github.com/skuska)
+1. [Roman Ivanovic](https://github.com/RomanIvanovic)
+1. [Timea Kevelyova](https://github.com/Kevelka)
+1. [Alexander Kocian](https://github.com/Al3xanderKo)
 1. [Martin Užík](https://github.com/MartinUzik)
