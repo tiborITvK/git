@@ -45,3 +45,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Martin Užík](https://github.com/MartinUzik)
 1. [Martin Sloboda](https://github.com/Martin1978)
 1. [Terézia Goňová](https://github.com/Atereeeeeeez)
+1. [Roland Wágner](https://github.com/Rallinko)
