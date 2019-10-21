@@ -43,3 +43,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Timea Kevelyova](https://github.com/Kevelka)
 1. [Alexander Kocian](https://github.com/Al3xanderKo)
 1. [Martin Užík](https://github.com/MartinUzik)
+1. [Martin Sloboda](https://github.com/Martin1978)
