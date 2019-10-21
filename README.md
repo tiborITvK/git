@@ -57,3 +57,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Jaroslav Kandra](https://github.com/Jaroslav004/Repository.git)
 1. [Lukáš Fabula] (https://github.com/LukasFabula)
 1. [Peter Pšenka](https://github.com/PeterPsenka)
+1. [Dominik Billý](https://github.com/Nikbi25)
