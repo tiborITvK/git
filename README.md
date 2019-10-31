@@ -61,3 +61,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 l. [Barbora Feuereislová](https://github.com/BarbiF)
 1. [Branislav Uhric](https://github.com/uhricb)
 1. [Anna Tumová] (https://github.com/Anickahanka)
+1. [Lucia Valachová](https://github.com/LuciaValachova)
