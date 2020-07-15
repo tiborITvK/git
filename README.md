@@ -7,3 +7,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Tibor Repček ITvK](https://github.com/tiborITvK/)
 1. [Skuska] (https>//github.com/skuska)
 1. [SKúška od Mercelky](https://github.com/skuska/)
+1. [Marcela Červeňanská](https://github.com/strunka)
