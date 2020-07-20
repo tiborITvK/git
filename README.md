@@ -5,6 +5,7 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 
 1. [Tibor Repček](https://github.com/tiborepcek)
 1. [Tibor Repček ITvK](https://github.com/tiborITvK/)
+1. [Marcela Červeňanská](https://github.com/strunka)
 1. [Pavol Mada](https://github.com/PaliMada)
 1. [Lucia Jánošová](https://github.com/janosovalucy)
 1. [MonikaFlicki](https://github.com/MonikaFlicki/)
