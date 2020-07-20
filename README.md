@@ -5,6 +5,7 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 
 1. [Tibor Repček](https://github.com/tiborepcek)
 1. [Tibor Repček ITvK](https://github.com/tiborITvK/)
+1. [Peter Indrišek](https://github.com/5R-I)
 1. Martin Šturcel link na moje stránky: [GitHub](https://github.com/mpca86/) & [Osobný Blog](https://sturcel.sk/martin)
 1. [Tibor Repček ITvK](https://github.com/tiborITvK/
 1. [Michal Škrobák](https://github.com/MiroslavSkrobak)
