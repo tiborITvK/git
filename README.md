@@ -20,3 +20,4 @@ Vypracovanie zadania v školení **Úvod do IT 2** po 4. webinári **Git a GitHu
 1. [Michal Škrobák](https://github.com/MiroslavSkrobak)
 1. [Test Tomáš](https://github.com/skuska)
 1. [Marek Csoglei](https://github.com/MarekCsoglei)
+1. [Júlia Švagrovská](https://github.com/JulSvag)
