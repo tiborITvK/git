@@ -5,4 +5,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 
 1. [Tibor Repček](https://github.com/tiborepcek)
 1. [Elon Musk](https://github.com/elonmusk)
-1. [Fero Voľný](https://github.com/ferovolny)
+1. [Radka] (https://github.com/justRadka)
