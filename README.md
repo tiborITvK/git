@@ -8,5 +8,5 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Radka](https://github.com/justRadka)
 1. [Marián Kováč](https://github.com/mariankovac)
 1. [Fero Voľný](https://github.com/ferovolny)
-1. [Tamas Pluhar](https://github.com/pluhi92)
-1. [Juraj Veselý](https://github.com/jurajvesely)
+2. [Tamas Pluhar](https://github.com/pluhi92)
+1. [Branka Milutinovic](https://github.com/BrankaMilutinovic)
