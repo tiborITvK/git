@@ -18,6 +18,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Tamas Pluhar](https://github.com/pluhi92)
 1. [Kristína Macková](https://github.com/kristinamac15/Kristina-Mackova)
 1. [Matej Pajunk](https://github.com/Pajoncek)
+1. [Michal Raczko](https://github.com/michalraczko)
 1. [Erik Lehocky](https://github.com/eriklehocky)
 1. [Lenka Benianová](https://github.com/leila138)
 1. [Viliam Kobelovský](https://github.com/viliamkobelovsky)
