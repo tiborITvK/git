@@ -9,3 +9,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Kristína Macková](https://github.com/kristinamac15/Kristina-Mackova)
 1. [Matej Pajunk](https://github.com/Pajoncek)
 1. [Michaela Dubeňová](https://github.com/Gresima)
+1. [Veronika Krizanova](https://github.com/veronikakrizanova)
