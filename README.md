@@ -46,6 +46,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Karol Knapik](https://github.com/Karol1804)
 1. [Patrik Germuška](https://github.com/PatrikGermuska)
 1. [Michaela Dubeňová](https://github.com/Gresima)
+1. [Adam Šír](https://github.com/adamsir1)
 1. [Veronika Krizanova](https://github.com/veronikakrizanova)
 1. [Markéta Mrvečková](https://github.com/mrveckovamarketa)
 1. [Katarina Krizova](https://github.com/katarinakrizova)
