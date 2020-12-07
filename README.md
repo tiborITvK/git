@@ -56,3 +56,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Martin Vrábel](https://github.com/MartinVrabel)
 1. [Renáta Chybová](https://github.com/renatachybova)
 1. [Norbert Bachna](https://github.com/NorbertBachna)
+1. [Boris Izakovič](https://github.com/BorisIzakovic52)
