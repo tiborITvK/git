@@ -51,6 +51,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Katarina Krizova](https://github.com/katarinakrizova)
 1. [Petra Kočitá](https://github.com/pkocita)
 1. [Bibiána Chudíková](https://github.com/bibiana-chudikova)
+1. [Peter Volanský](https://github.com/PeterVolansky)
 1. [Lukas Valco](https://github.com/Lukas-Valco)
 1. [Martin Vrábel](https://github.com/MartinVrabel)
 1. [Renáta Chybová](https://github.com/renatachybova)
