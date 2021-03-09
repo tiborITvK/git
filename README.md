@@ -8,4 +8,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Stavri Benedikty](https://github.com/SBenedikty)
 1. [Juraj Kopřiva](https://github.com/dokiiin)
 1. [Liudmyla Trykur](https://github.com/Liudmyla1995)
-1. [Janko Hraško](https://github.com/janko.hrasko)
+1. [Janka Danka](https://github.com/janka.danka)
