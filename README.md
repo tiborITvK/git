@@ -9,3 +9,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Juraj Kopřiva](https://github.com/dokiiin)
 1. [Liudmyla Trykur](https://github.com/Liudmyla1995)
 1. [Jakub Kollár](https://github.com/jakubkollar1)
+2. [Martin Kováč](https://github.com/M-Kovac-1)
