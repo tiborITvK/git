@@ -5,4 +5,5 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 
 1. [Tibor Repček](https://github.com/tiborepcek)
 1. [Jožko Mrkvička](https://github.com/jozko.mrkvicka)
-2. [Lukas Rusinak](https://github.com/lukas-dev-ai)
+1. [Eleonóra Fialová](https://github.com/e.fialova)
+1. [Stavri Benedikty](https://github.com/SBenedikty)
