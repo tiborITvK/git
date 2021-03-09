@@ -22,5 +22,6 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Frantisek Mitter](https://github.com/fero5466)
 1. [Marian Pasiak](https://github.com/tibuxy)
 1. [Jakub Kollár](https://github.com/jakubkollar1)
+1. [Anna Nguyenova](https://github.com/NguyenovaAnna)
 1. [Kamil Balogh](https://github.com/KamcoPanco)
 2. [Martin Kováč](https://github.com/M-Kovac-1)
