@@ -14,3 +14,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Marian Pasiak](https://github.com/tibuxy)
 1. [Jakub Kollár](https://github.com/jakubkollar1)
 2. [Peter OlÁH ](https://github.com/Ppete899)
+3. [Peter Oláh](https://github.com/Pppete899)
