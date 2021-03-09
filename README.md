@@ -12,3 +12,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Denis Adamkovič](https://github.com/veeellys)
 1. [Marian Pasiak](https://github.com/tibuxy)
 1. [Jakub Kollár](https://github.com/jakubkollar1)
+1. [Radovan Stupák](https://github.com/radostup)
