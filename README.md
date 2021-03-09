@@ -7,4 +7,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Lukas Rusinak](https://github.com/lukas-dev-ai)
 1. [Stavri Benedikty](https://github.com/SBenedikty)
 1. [Juraj Kopřiva](https://github.com/dokiiin)
-[Peter trúchly](https://github.com/PeteTruchly)
+1. [Peter Trúchly](https://github.com/PeteTruchly)
