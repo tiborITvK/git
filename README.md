@@ -9,6 +9,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Marián Kováč](https://github.com/mariankovac)
 1. [Fero Voľný](https://github.com/ferovolny)
 2. [Tamas Pluhar](https://github.com/pluhi92)
+1. [Dušan Smolka](https://github.com/duskysmolka)
 1. [Viliam Kobelovský](https://github.com/viliamkobelovsky)
 1. [Lukas Rusinak](https://github.com/lukas-dev-ai)
 1. [Stavri Benedikty](https://github.com/SBenedikty)
