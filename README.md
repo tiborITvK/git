@@ -15,7 +15,6 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [jan demian](https://github.com/johny8004)
 1. [Peter Trúchly](https://github.com/PeteTruchly)
 1. [Liudmyla Trykur](https://github.com/Liudmyla1995)
-1. [David Biscak](https://github.com/d.biscak)
 1. [Jana Pribelova](https://github.com/JanaP-1986)
 1. [Denis Adamkovič](https://github.com/veeellys)
 1. [Anna Syrotiak](https://github.com/AnnaSyrotiak)
