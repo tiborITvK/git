@@ -84,3 +84,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 3. [Dominika Kubanyiova](https://github.com/domi-nika27)
 3. [Peter Oláh](https://github.com/Pppete899)
 3. [David Biscak](https://github.com/M-d.biscak)
+1. [Radovan Stupák](https://github.com/radostup)
