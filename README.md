@@ -42,6 +42,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 2. [Maroš Šofranko](https://github.com/Marosii)
 1. [Michal Hlinka](https://github.com/kychnul)
 1. [Juraj Kopřiva](https://github.com/dokiiin)
+1. [jan demian](https://github.com/johny8004)
 1. [Peter Trúchly](https://github.com/PeteTruchly)
 1. [Liudmyla Trykur](https://github.com/Liudmyla1995)
 1. [Denis Adamkovič](https://github.com/veeellys)
