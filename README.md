@@ -4,6 +4,12 @@ Repozitár pre študentov [IT v kurze](https://www.itvkurze.sk/), ktorý slúži
 Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **Git a GitHub**:
 
 1. [Tibor Repček](https://github.com/tiborepcek)
+1. [Elon Musk](https://github.com/elonmusk)
+1. [Radka](https://github.com/justRadka)
+1. [Marián Kováč](https://github.com/mariankovac)
+1. [Fero Voľný](https://github.com/ferovolny)
+2. [Tamas Pluhar](https://github.com/pluhi92)
+1. [Viliam Kobelovský](https://github.com/viliamkobelovsky)
 1. [Lukas Rusinak](https://github.com/lukas-dev-ai)
 1. [Stavri Benedikty](https://github.com/SBenedikty)
 1. [Juraj Kopřiva](https://github.com/dokiiin)
