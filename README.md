@@ -70,6 +70,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Anna Nguyenova](https://github.com/NguyenovaAnna)
 1. [Kamil Balogh](https://github.com/KamcoPanco)
 2. [Martin Kováč](https://github.com/M-Kovac-1)
+1. [Juraj Masár](https://github.com/JuMa-JurajM)
 2. [Pavol Šrámek](https://github.com/Pavol2021)
 1. [Martin Kovaľ](https://github.com/MartinKoval)
 1. [Miriam Tomová](https://github.com/Miriam-Tomova)
