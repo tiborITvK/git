@@ -38,6 +38,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Boris Izakovič](https://github.com/BorisIzakovic52)
 1. [Lukas Rusinak](https://github.com/lukas-dev-ai)
 1. [Stavri Benedikty](https://github.com/SBenedikty)
+2. [Maroš Šofranko](https://github.com/Marosii)
 1. [Michal Hlinka](https://github.com/kychnul)
 1. [Juraj Kopřiva](https://github.com/dokiiin)
 1. [Liudmyla Trykur](https://github.com/Liudmyla1995)
