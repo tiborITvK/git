@@ -11,4 +11,6 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Dominika Průšová](https://github.com/domcik111)
 5. [Dávid Hanko](https://github.com/DaveMLG)
 6. [Kika Ivancova](https://github.com/kikaSK86)
-7. [Terézia Mazuráková]
+7. [Stanislav Vámoši](https://github.com/Magor128)
+7. [Marek Mihalovic](https://github.com/Mihi-no)
+9. [Terézia Mazuráková](https://github.com/Terezia-coder)
