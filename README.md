@@ -10,4 +10,5 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 3. [Jarmila Olsova](https://github.com/JarmilaOlsova)
 1. [Dominika Průšová](https://github.com/domcik111)
 5. [Dávid Hanko](https://github.com/DaveMLG)
+6. [Kika Ivancova](https://github.com/kikaSK86)
 6. [Stanislav Vámoši](https://github.com/Magor128)
