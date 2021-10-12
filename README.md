@@ -15,3 +15,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 7. [Marek Mihalovic](https://github.com/Mihi-no)
 9. [Terézia Mazuráková](https://github.com/Terezia-coder)
 7. [Stanislav Martinak](https://github.com/Stanle21)
+12. [Konstantin Sedlak](https://github.com/Konstantin-KS)
