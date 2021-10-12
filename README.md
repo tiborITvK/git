@@ -4,4 +4,4 @@ Repozitár pre študentov [IT v kurze](https://www.itvkurze.sk/), ktorý slúži
 Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **Git a GitHub**:
 
 1. [Tibor Repček](https://github.com/tiborepcek)
-1. [Linus Torvalds](https://github.com/linus)
+2. [Dominik Finik](https://github.com/FinikDominik)
