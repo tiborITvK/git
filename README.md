@@ -5,4 +5,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 
 1. [Tibor Repček](https://github.com/tiborepcek)
 2. [Dominik Finik](https://github.com/FinikDominik)
-2. [Dana Kacerikova](https://github.com/DanaKacerikova)
+3. [Dana Kacerikova](https://github.com/DanaKacerikova)
