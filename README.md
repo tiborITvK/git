@@ -7,4 +7,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 2. [Dominik Finik](https://github.com/FinikDominik)
 2. [Lýdia Borková](https://github.com/borlyd)
 4. [Dana Kacerikova](https://github.com/DanaKacerikova)
-3. [Jarmila Olsova](https://github.com/Jarmila Olsova)
+3. [Jarmila Olsova](https://github.com/JarmilaOlsova)
