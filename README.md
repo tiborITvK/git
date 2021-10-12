@@ -12,3 +12,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 5. [Dávid Hanko](https://github.com/DaveMLG)
 6. [Kika Ivancova](https://github.com/kikaSK86)
 6. [Stanislav Vámoši](https://github.com/Magor128)
+7. [Konstatin Sedlak](https://github.com/Konstantin-KS)
