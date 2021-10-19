@@ -18,6 +18,7 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Konstantin Sedlak](https://github.com/Konstantin-KS)
 6. [Henrieta Zelenayová](https://github.com/HeZe)
 8. [Michal Gajarsky](https://github.com/MichalGajarsky)
+1. [Martin Hraško](https://github.com/matkohrasko)
 1. [Marek Žákovič](https://github.com/MarekZakovic)
 1. [Petra Berkova](https://github.com/PetraBerkova)
 1. [Ingrid Raczkova](https://github.com/ingridRA2021)
