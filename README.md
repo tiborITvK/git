@@ -51,3 +51,4 @@ Vypracovanie zadania v školení **Programming fundamentals** po 4. webinári **
 1. [Stanislav Gregor](https://github.com/SerpentPoetry)
 1. [JanFoldesi](https://github.com/JanFoldesi/git)
 1. [Marcel Javor](https://github.com/Marcell30)
+1. [Lýdia Cvopová](https://github.com/Selins123)
